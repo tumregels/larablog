@@ -1,0 +1,1 @@
+C:\Users\Liberty\PhpstormProjects\larablog\app/views/posts/show.blade.php
